@@ -1,0 +1,29 @@
+# Local database configuration and files
+config.yml
+*.duckdb
+
+# Licensed inputs that are deliberately not redistributed
+data/wos_exports/*
+!data/wos_exports/
+!data/wos_exports/README.md
+
+# Python and plotting caches
+__pycache__/
+*.py[cod]
+.mplconfig/
+.asset-run/
+.venv/
+
+# Local editor, agent, and operating-system state
+.DS_Store
+Thumbs.db
+.codex/
+.agents/
+.claude/
+.cursor/
+.aider/
+.continue/
+
+# Internal release-preparation guides
+release_preperation/
+

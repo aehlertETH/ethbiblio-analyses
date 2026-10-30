@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "Open Bibliometric Study of the ETH Domain (2014–2023): Analyses"
+type: software
+version: "v1.0.0"
+date-released: "2026-10-30"
+authors:
+  - family-names: "Ehlert"
+    given-names: "Alexander"
+    affiliation: "ETH Library, ETH Zurich"
+    orcid: "https://orcid.org/0000-0002-0964-5871"
+  - family-names: "Bernard"
+    given-names: "Gaël"
+    affiliation: "EPFL, Institutional Data and Analytics"
+    orcid: "https://orcid.org/0000-0001-7299-1286"
+repository-code: "https://github.com/aehlertETH/ethbiblio-analyses"

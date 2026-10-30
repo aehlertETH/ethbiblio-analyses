@@ -1,0 +1,33 @@
+{
+  "title": "Open Bibliometric Study of the ETH Domain (2014–2023): Analyses",
+  "upload_type": "software",
+  "description": "Python source code, configuration, and small reference data used to generate tables and figures for the ETH Domain bibliometric reports. The scripts require a compatible local DuckDB data warehouse built by the associated pipeline. This release excludes the database, generated outputs, raw Web of Science exports, and local configuration.",
+  "creators": [
+    {
+      "name": "Ehlert, Alexander",
+      "affiliation": "ETH Library, ETH Zurich",
+      "orcid": "0000-0002-0964-5871"
+    },
+    {
+      "name": "Bernard, Gaël",
+      "affiliation": "EPFL, Institutional Data and Analytics",
+      "orcid": "0000-0001-7299-1286"
+    }
+  ],
+  "keywords": [
+    "bibliometrics",
+    "OpenAlex",
+    "ETH Domain",
+    "citation analysis",
+    "DuckDB"
+  ],
+  "license": "MIT",
+  "version": "v1.0.0",
+  "related_identifiers": [
+    {
+      "identifier": "10.5281/zenodo.23728218",
+      "relation": "isSupplementTo",
+      "resource_type": "software"
+    }
+  ]
+}

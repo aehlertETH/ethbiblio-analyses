@@ -1,0 +1,11 @@
+# Optional dependencies for collaboration map assets.
+# Install with:
+#   pip install -r requirements.maps.txt
+
+# Plotly static export (used by the Plotly map assets)
+kaleido>=0.2.1
+
+# GeoPandas map stack (used by assets/2_1_collaborationGeoCountriesBar/script.py)
+geopandas>=0.14
+
+shapely>=2.1.2

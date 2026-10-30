@@ -1,0 +1,8 @@
+inst;InstID;InstName;InstShort;InstGenitive;InstGenitiveCap;UnitSpecificTest;InstNameNonTex;InstShortCap;InstShortNoThe;CoverPageName
+empa;empa;Swiss Federal Laboratories for Materials Science and Technology;Empa;Empa's;Empa's;test1;Swiss Federal Laboratories for Materials Science and Technology;Empa;Empa;Empa
+epfl;epfl;Swiss Federal Institute of Technology Lausanne;EPFL;EPFL's;EPFL's;test2;�cole Polytechnique F�d�rale de Lausanne;EPFL;EPFL;EPFL
+psi;psi;Paul Scherrer Institute;PSI;PSI's;PSI's;test3;Paul Scherrer Institute;PSI;PSI;the Paul Scherrer Institute (PSI)
+wsl;wsl;Swiss Federal Institute for Forest, Snow and Landscape Research;WSL;WSL's;WSL's;test4;Swiss Federal Institute for Forest, Snow and Landscape Research;WSL;WSL;WSL
+ethz;ethz;Swiss Federal Institute of Technology Zurich;ETH Zurich;ETH Zurich's;ETH Zurich's;test5;ETH Zurich;ETH Zurich;ETH Zurich;ETH Zurich
+eawag;eawag;Swiss Federal Institute of Aquatic Science and Technology;Eawag;Eawag's;Eawag's;test6;Swiss Federal Institute of Aquatic Science and Technology;Eawag;Eawag;Eawag
+ethdomain;ethdomain;ETH Domain;the ETH Domain;the ETH Domain's;The ETH Domain's;test7;ETH Domain;The ETH Domain;ETH Domain;the ETH Domain
